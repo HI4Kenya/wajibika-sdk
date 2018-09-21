@@ -1,0 +1,22 @@
+/node_modules
+/storage/*.key
+/vendor
+/.vagrant
+**/static/hot
+**/static/css
+**/static/js
+**/static/storage
+__pycache__/
+
+mix-manifest.json
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+yarn.lock
+.env
+*.pyc
+
+# Editor files
+/.idea
+/.vscode
